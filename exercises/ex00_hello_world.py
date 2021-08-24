@@ -3,5 +3,3 @@
 __author__ = "730495029"
 
 print("Hello, world")
-
-print("wo ai LXY")
